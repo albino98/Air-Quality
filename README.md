@@ -1,5 +1,5 @@
 # Air-Quality
-ESP8266 WiFi board and PMS5003 sensor to measure the concentration of particulate matter in the air. 
+The readme file will be updated.
 
 
 connettere il pin rst al d0 (per la sleep mode) solo dopo aver caricato il codice.
