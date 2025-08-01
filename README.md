@@ -1,4 +1,4 @@
-# 🌫️ Air-Quality
+# Air-Quality
 
 **Air quality monitoring using ESP8266 and PMS5003 sensor**
 
