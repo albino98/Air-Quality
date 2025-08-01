@@ -73,6 +73,11 @@ Example of data string sent:
 
 api_key=XXXX&field1=12.5&field2=18.3&field3=21.7
 
+### 🌫️ Air quality graph (from the ThingSpeak channel)
+
+
+
+
 ## 💤 Power Saving
 
 The ESP8266 uses `ESP.deepSleep()` for low-power operation.  
