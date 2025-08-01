@@ -80,15 +80,11 @@ This makes the system suitable for battery-powered deployments.
 
 ---
 
-## 📄 License
+## Support
 
-This project is licensed under the [MIT License](LICENSE).
+If you find it useful, give it a ⭐ !
 
----
-
-## 🙋‍♂️ Author
-
-Developed by [@albino98](https://github.com/albino98)
+Feel free to fork it or open issues for feedback and suggestions.
 
 
 
